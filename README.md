@@ -1,6 +1,6 @@
-## Parsing of https and images 
+## Parsing of https and of images 
 
-1. how to scrape https and images from website using Python
+1. How to scrape https and images from website using Python
 
 2. This is a tool for looking through a website to gather counts of https and images as a CSV output. 
 
@@ -13,3 +13,5 @@
 
 ## Author
 David H. Gae
+
+https://github.com/davidhyongae2
