@@ -1,22 +1,22 @@
-## Parsing of https, of facts for busines, of images
+## Parsing of HTTPS, of facts for business, of images
 
-1. How to manually curate and scrape https,maps,images from website using Python
-   need more lingustic parsing knowledge.
+1. How to manually curate and scrape HTTPS, maps, images from a website using Python
+   need more linguistic parsing knowledge to improve the context.
 
-2. This is a tool for looking through a website to gather counts of https and images as a CSV output. 
+2. This is a tool for looking through a website to gather words, HTTPS as a CSV output. 
 
 ## Results
-Tackle point 2 from  https://www.nbwa.org/resources/industry-fast-facts <br>
-Run this script. python data_analysis.py and collect http counts and topic sentence. <br>
+A) Tackle point 2 from  https://www.nbwa.org/resources/industry-fast-facts <br>
+Run this script to output the context into output.csv <br>
 
-Location and distribution of highest shares in 2021 beer importing business
+B) Location and distribution of highest shares in 2021 beer importing busines are listed below
 ![map](https://github.com/ddgae2/web_scrape/blob/main/beer_distribution.png) <br>
-Other data can be viewed in https://www.nbwa.org/resources/industry-fast-facts
+B1) Other distribution business can be analyzed in https://www.nbwa.org/resources/industry-fast-facts
 
-use plotly.com of the beer types from this beer distribution center <br>
+C) Use plotly.com to visualize the beer types from this beer distribution center <br>
 loaded as https://plotly.com. <br>
 
-finally look at the websites and determine if any of these locations operate during these holidays. <br>
+D) Finally look through this websites and determine if any of these locations that operates during these holidays. <br>
 		Independence Day (4th of July) <br>
 		Memorial Day <br>
 		Labor Day  <br>
@@ -28,7 +28,7 @@ finally look at the websites and determine if any of these locations operate dur
 		St. Patrick’s Day <br>
 		NCAA Basketball <br>
 
-## python, pandas, json, beautifulSoup
+## python, pandas, JSON, beautiful soup
 
 ## Author
 David H. Gae
