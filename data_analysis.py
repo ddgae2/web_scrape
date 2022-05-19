@@ -19,8 +19,8 @@ def tags():
 	tags = []
 	getvalues = []
 	for tag in soup.findAll(True):
-		#need to read more about ligustic parser.
-		#collecting words on a page bit more challenging.
+		#need to read more about liguistic parser
+		#collecting words on a page bit more challenging than expected
 		pattern = '1. Get noticed on social media'
 		text1 = soup.findAll('h2', text=pattern)
 		#print(text1)
@@ -87,14 +87,13 @@ if __name__ == "__main__":
 	a = []
 	b = []
 	line1 = []
-	for i,https in enumerate(soup.findAll('a')):
-		# print(https.get('href'))
-		name = https.find('href')
-		line1.append(name)
+	for i,https in enumerate(soup.findAll('a', href=True)):
+		#name = https.find('<a href')
+		line1.append(https)
 		num = len(line1)
 	# https://stackoverflow.com format function with modification
 	with open('output2.csv', 'w', newline='') as out:
-		for i in range(0, num):
-			out.write('{0},'.format(i))
+		for i in line1:
+			out.write(str(i,))
 			out.write('\n')
 

@@ -1,126 +1,167 @@
-0,
-1,
-2,
-3,
-4,
-5,
-6,
-7,
-8,
-9,
-10,
-11,
-12,
-13,
-14,
-15,
-16,
-17,
-18,
-19,
-20,
-21,
-22,
-23,
-24,
-25,
-26,
-27,
-28,
-29,
-30,
-31,
-32,
-33,
-34,
-35,
-36,
-37,
-38,
-39,
-40,
-41,
-42,
-43,
-44,
-45,
-46,
-47,
-48,
-49,
-50,
-51,
-52,
-53,
-54,
-55,
-56,
-57,
-58,
-59,
-60,
-61,
-62,
-63,
-64,
-65,
-66,
-67,
-68,
-69,
-70,
-71,
-72,
-73,
-74,
-75,
-76,
-77,
-78,
-79,
-80,
-81,
-82,
-83,
-84,
-85,
-86,
-87,
-88,
-89,
-90,
-91,
-92,
-93,
-94,
-95,
-96,
-97,
-98,
-99,
-100,
-101,
-102,
-103,
-104,
-105,
-106,
-107,
-108,
-109,
-110,
-111,
-112,
-113,
-114,
-115,
-116,
-117,
-118,
-119,
-120,
-121,
-122,
-123,
-124,
-125,
+<a aria-label="Skip to content" class="fl-screen-reader-text" href="#fl-main-content">Skip to content</a>
+<a href="https://tripleseat.com/" target="_self">
+<i aria-hidden="true" class="tripleseat-logos-sketch-Tripleseat_Circle_logo_white"></i>
+</a>
+<a href="https://tripleseat.com/products/">Products<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/industries/catering/">Catering<p class="menu-item-description">Test description</p></a>
+<a href="https://tripleseat.com/products/restaurants/">Tripleseat Restaurants<p class="menu-item-description">Streamline event management</p></a>
+<a href="https://tripleseat.com/products/hotels/">Tripleseat Hotels<p class="menu-item-description">Simplify group sales and bookings</p></a>
+<a href="https://tripleseat.com/products/eventup/">Tripleseat EventUp<p class="menu-item-description">View the largest online venue listings directory</p></a>
+<a href="https://tripleseat.com/products/tsdirect/">TripleseatDirect<p class="menu-item-description">Enable catering and event booking from any platform</p></a>
+<a href="https://tripleseat.com/products/">View All<p class="menu-item-description">Every Product We Offer</p></a>
+<a href="#">Resources</a>
+<a href="https://tripleseat.com/roi-classic/">Calculate Your ROI<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/marketplace/">Marketplace<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/free-beo/">Free BEO<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/industries/">Industries<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/industries/fine-dining/"><img alt="" class="menu-image menu-image-title-after fl-node-61295bc5b0e03-img-0" data-lazy-src="https://tripleseat.com/wp-content/uploads/2021/12/cutlery-1.png" height="39" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2035%2039'%3E%3C/svg%3E" width="35"/><noscript><img alt="" class="menu-image menu-image-title-after" height="39" src="https://tripleseat.com/wp-content/uploads/2021/12/cutlery-1.png" width="35"/></noscript><span class="menu-image-title-after menu-image-title">Fine Dining</span><p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/industries/casual-dining/"><img alt="" class="menu-image menu-image-title-after fl-node-61295bc5b0e03-img-1" data-lazy-src="https://tripleseat.com/wp-content/uploads/2021/12/drink-36x36.png" height="36" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E" width="36"/><noscript><img alt="" class="menu-image menu-image-title-after" height="36" src="https://tripleseat.com/wp-content/uploads/2021/12/drink-36x36.png" width="36"/></noscript><span class="menu-image-title-after menu-image-title">Casual Dining</span><p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/industries/catering/"><img alt="" class="menu-image menu-image-title-after fl-node-61295bc5b0e03-img-2" data-lazy-src="https://tripleseat.com/wp-content/uploads/2021/12/catering-34x36.png" height="36" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2034%2036'%3E%3C/svg%3E" width="34"/><noscript><img alt="" class="menu-image menu-image-title-after" height="36" src="https://tripleseat.com/wp-content/uploads/2021/12/catering-34x36.png" width="34"/></noscript><span class="menu-image-title-after menu-image-title">Catering</span><p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/industries/bars/"><img alt="" class="menu-image menu-image-title-after fl-node-61295bc5b0e03-img-3" data-lazy-src="https://tripleseat.com/wp-content/uploads/2021/12/martini.png" height="36" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2035%2036'%3E%3C/svg%3E" width="35"/><noscript><img alt="" class="menu-image menu-image-title-after" height="36" src="https://tripleseat.com/wp-content/uploads/2021/12/martini.png" width="35"/></noscript><span class="menu-image-title-after menu-image-title">Bar &amp; Nightclub</span><p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/industries/hotels/"><img alt="" class="menu-image menu-image-title-after fl-node-61295bc5b0e03-img-4" data-lazy-src="https://tripleseat.com/wp-content/uploads/2021/12/hotel.png" height="36" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2035%2036'%3E%3C/svg%3E" width="35"/><noscript><img alt="" class="menu-image menu-image-title-after" height="36" src="https://tripleseat.com/wp-content/uploads/2021/12/hotel.png" width="35"/></noscript><span class="menu-image-title-after menu-image-title">Hotels</span><p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/industries/fast-casual/"><img alt="" class="menu-image menu-image-title-after fl-node-61295bc5b0e03-img-5" data-lazy-src="https://tripleseat.com/wp-content/uploads/2021/12/burger-28x36.png" height="36" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2028%2036'%3E%3C/svg%3E" width="28"/><noscript><img alt="" class="menu-image menu-image-title-after" height="36" src="https://tripleseat.com/wp-content/uploads/2021/12/burger-28x36.png" width="28"/></noscript><span class="menu-image-title-after menu-image-title">Fast Casual</span><p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/industries/enterprise/"><img alt="" class="menu-image menu-image-title-after fl-node-61295bc5b0e03-img-6" data-lazy-src="https://tripleseat.com/wp-content/uploads/2021/12/enterprise-36x36.png" height="36" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E" width="36"/><noscript><img alt="" class="menu-image menu-image-title-after" height="36" src="https://tripleseat.com/wp-content/uploads/2021/12/enterprise-36x36.png" width="36"/></noscript><span class="menu-image-title-after menu-image-title">Enterprise</span><p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/industries/"><img alt="" class="menu-image menu-image-title-after fl-node-61295bc5b0e03-img-7" data-lazy-src="https://tripleseat.com/wp-content/uploads/2021/12/view-all-34x36.png" height="36" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2034%2036'%3E%3C/svg%3E" width="34"/><noscript><img alt="" class="menu-image menu-image-title-after" height="36" src="https://tripleseat.com/wp-content/uploads/2021/12/view-all-34x36.png" width="34"/></noscript><span class="menu-image-title-after menu-image-title">View All</span></a>
+<a href="https://tripleseat.com/company/">About Us<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/company/">About Us<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/careers/">Careers<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/press/">Press<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/success-stories/">Success Stories<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/community/">Community<p class="menu-item-description"> </p></a>
+<a href="#">Catering</a>
+<a href="https://tripleseat.com/community/">Community<p class="menu-item-description">Discover what makes Tripleseat great</p></a>
+<a href="https://tripleseat.com/events/">Events<p class="menu-item-description">Join Us for Webinars, TSU on the Road, and Party People</p></a>
+<a href="https://tripleseat.com/blog/">Blog<p class="menu-item-description">Catch up on the latest news</p></a>
+<a href="https://tripleseatuniversity.northpass.com/auth/auth_url_terms/login" target="_blank">Tripleseat University<p class="menu-item-description">Education at Every Level</p></a>
+<a href="#">Resources</a>
+<a href="https://tripleseat.com/seated/">Seated<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/eventcamp/">EventCamp<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/podcast/">Podcast<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/support/">Support<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/products/restaurants/">Tripleseat Restaurants<p class="menu-item-description">Streamline event management</p></a>
+<a href="https://tripleseat.com/products/hotels/">Tripleseat Hotels<p class="menu-item-description">Simplify group sales and bookings</p></a>
+<a href="https://tripleseat.com/products/eventup/">Tripleseat EventUp<p class="menu-item-description">View the largest online venue listings directory</p></a>
+<a href="https://tripleseat.com/products/tsdirect/">TripleseatDirect<p class="menu-item-description">Enable catering and event booking from any platform</p></a>
+<a href="https://tripleseat.com/products/">View All<p class="menu-item-description">Every product we offer</p></a>
+<a href="https://tripleseat.com/industries/fine-dining/">Fine Dining<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/industries/casual-dining/">Casual Dining<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/industries/catering/">Catering<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/industries/bars/">Bar &amp; Nightclub<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/industries/hotels/">Hotels<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/industries/fast-casual/">Fast Casual<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/industries/enterprise/">Enterprise<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/company/">About Us<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/careers/">Careers<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/press/">Press<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/success-stories/">Success Stories<p class="menu-item-description"> </p></a>
+<a href="#"><span class="menu-image-title-before menu-image-title">Community</span><span class="dashicons dashicons-plus-alt2 before-menu-image-icons"></span></a>
+<a href="https://tripleseat.com/community/">Community<p class="menu-item-description">Discover what makes Tripleseat great</p></a>
+<a href="https://tripleseat.com/events/">Events<p class="menu-item-description">Sign up for the next big thing</p></a>
+<a href="https://tripleseat.com/blog/">Blog<p class="menu-item-description">Catch up on the latest news</p></a>
+<a href="https://tripleseatuniversity.northpass.com/auth/auth_url_terms/login" target="_blank">Tripleseat University<p class="menu-item-description">The hub for all things Tripleseat</p></a>
+<a href="https://tripleseat.com/seated/">Seated<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/eventcamp/">EventCamp<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/podcast/">Podcast<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/support/">Support<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/free-beo/">Free BEO<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/roi-classic/">Calculate Your ROI<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/demo-request/">Pricing Request<p class="menu-item-description"> </p></a>
+<a href="https://login.tripleseat.com/" target="_blank">Login</a>
+<a href="https://login.tripleseat.com/" target="_blank">Login</a>
+<a class="Buttons-cta--small mouse-cursor-gradient-tracking fl-button" href="/demo-request/" role="button" target="_self">
+<span class="fl-button-text">Request a Demo</span>
+</a>
+<a class="uabb-social-share-link uabb-social-share-1" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Ftripleseat.com%2Fblog%2F9-tips-for-marketing-your-craft-brewery%2F" onclick="window.open(this.href,'social-share','left=20,top=20,width=500,height=500,toolbar=1,resizable=0');return false;" target="_blank"><div class="uabb-module-content uabb-imgicon-wrap"> <span class="uabb-icon-wrap">
+<span class="uabb-icon">
+<i class="fab fa-facebook"></i>
+</span>
+</span>
+</div></a>
+<a class="uabb-social-share-link uabb-social-share-2" href="https://twitter.com/share?url=https%3A%2F%2Ftripleseat.com%2Fblog%2F9-tips-for-marketing-your-craft-brewery%2F" onclick="window.open(this.href,'social-share','left=20,top=20,width=500,height=500,toolbar=1,resizable=0');return false;" target="_blank"><div class="uabb-module-content uabb-imgicon-wrap"> <span class="uabb-icon-wrap">
+<span class="uabb-icon">
+<i class="fab fa-twitter"></i>
+</span>
+</span>
+</div></a>
+<a class="uabb-social-share-link uabb-social-share-3" href="https://www.pinterest.com/pin/create/link/?url=https%3A%2F%2Ftripleseat.com%2Fblog%2F9-tips-for-marketing-your-craft-brewery%2F&amp;media=https://tripleseat.com/wp-content/uploads/2021/08/9-Tips-for-Marketing-Your-Craft-Brewery.png" onclick="window.open(this.href,'social-share','left=20,top=20,width=500,height=500,toolbar=1,resizable=0');return false;" target="_blank"><div class="uabb-module-content uabb-imgicon-wrap"> <span class="uabb-icon-wrap">
+<span class="uabb-icon">
+<i class="fab fa-pinterest"></i>
+</span>
+</span>
+</div></a>
+<a class="uabb-social-share-link uabb-social-share-1" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Ftripleseat.com%2Fblog%2F9-tips-for-marketing-your-craft-brewery%2F" onclick="window.open(this.href,'social-share','left=20,top=20,width=500,height=500,toolbar=1,resizable=0');return false;" target="_blank"><div class="uabb-module-content uabb-imgicon-wrap"> <span class="uabb-icon-wrap">
+<span class="uabb-icon">
+<i class="ua-icon ua-icon-facebook-with-circle"></i>
+</span>
+</span>
+</div></a>
+<a href="https://tripleseat.com/blog/how-breweries-can-use-tripleseat-for-more-than-just-event-management/">brewery</a>
+<a href="http://www.therail.media/stories/2019/4/11/the-daily-rail-are-millennials-killing-the-restaurant-tipping-culture#beer=" rel="nofollow noopener noreferrer" target="_blank">according to reports</a>
+<a href="https://tripleseat.com/blog/five-questions-with-monday-night-brewing/">make your brewery stand out</a>
+<a href="https://tripleseat.com/blog/how-event-planners-can-jumpstart-their-social-media-marketing/">social media platforms</a>
+<a href="https://tripleseat.com/blog/how-to-create-behind-the-scenes-content-to-promote-your-venue/">behind the scenes</a>
+<a href="https://tripleseat.com/blog/how-to-become-an-email-marketing-pro/" rel="nofollow noopener noreferrer" target="_blank">create a brief newsletter</a>
+<a href="https://tripleseat.com/blog/4-easy-tips-for-restaurants-to-create-effective-emails/">email marketing</a>
+<a href="https://www.campaignmonitor.com/company/annual-report/2016/" rel="nofollow noopener noreferrer" target="_blank">$32 to $44</a>
+<a href="https://tripleseat.com/blog/why-the-tripleseat-booking-network-will-help-you-increase-2020-revenue/" rel="nofollow noopener noreferrer" target="_blank">Joining an online directory</a>
+<a href="https://venues.tripleseat.com/venues">VENUES by Tripleseat</a>
+<a href="https://eventup.com/">EventUp</a>
+<a href="https://www.motivators.com/blog/2018/04/tips-for-creating-a-craft-brewery-marketing-plan/" rel="nofollow noopener noreferrer" target="_blank">food holidays</a>
+<a href="https://www.barbizmag.com/" rel="nofollow noopener noreferrer" target="_blank">Bar Business Magazine</a>
+<a href="https://www.goodbeerhunting.com/" rel="nofollow noopener noreferrer" target="_blank">Good Beer Hunting</a>
+<a href="http://info.tripleseat.com/demo-request-cta">schedule a demo</a>
+<a class="cta_button" cta_dest_link="http://info.tripleseat.com/sales-demo-request" href="https://cta-service-cms2.hubspot.com/ctas/v2/public/cs/c/?cta_guid=bdbc51e3-28a7-4efe-8a5b-f43b721961fd&amp;signature=AAH58kHYBliSJav1V6ACS4rGhe-QWgh3Nw&amp;placement_guid=840796b4-8971-4bb4-a60f-0fd68a579136&amp;click=c7fc5f60-aed0-4d7d-9acd-ca7ac35bad2a&amp;hsutk=&amp;canon=https%3A%2F%2Ftripleseat.com%2Fblog%2F9-tips-for-marketing-your-craft-brewery%2F&amp;portal_id=366882&amp;redirect_url=APefjpFfFz-3rSeMFlyrD3IwK85eZ0tedbNNnRjZd5OUxEYC7572-FTT2CTA2X2mxeDqqfOJi0GzydKhd1bsOcw6eLO5E0KMeGnL3hw2QO5dmWFwjPcvYcJv-yRnZUEF3IoUILIQcCFh" id="cta_button_366882_bdbc51e3-28a7-4efe-8a5b-f43b721961fd"><img alt="New call-to-action" class="hs-cta-img" id="hs-cta-img-840796b4-8971-4bb4-a60f-0fd68a579136" mce_noresize="1" src="https://cdn2.hubspot.net/hubfs/366882/hub_generated/resized/40661d62-d109-464d-989c-2018e1b26a05.jpeg" style="border-width: 0px; "/></a>
+<a href="https://tripleseat.com/" target="_self">
+<i aria-hidden="true" class="tripleseat-white-icons-Tripleseat_Circle_logo_KO_RGB-white"></i>
+</a>
+<a href="mailto:info@tripleseat.com">info@tripleseat.com</a>
+<a href="tel:978-614-0490">978-614-0490</a>
+<a href="mailto:support@tripleseat.com">support@tripleseat.com</a>
+<a class="Buttons-cta--medium_white fl-button" href="https://tripleseat.com/support/" role="button" target="_self">
+<span class="fl-button-text">Contact Support</span>
+</a>
+<a href="https://www.youtube.com/channel/UCHCTtypvJsxJHxp68mRPl0w" rel="noopener" target="_blank">
+<i aria-hidden="true" class="tripleseat-social-icons-Youtube"></i>
+</a>
+<a href="https://twitter.com/tripleseat" rel="noopener" target="_blank">
+<i aria-hidden="true" class="tripleseat-social-icons-Twitter"></i>
+</a>
+<a href="https://www.linkedin.com/company/222116" rel="noopener" target="_blank">
+<i aria-hidden="true" class="tripleseat-social-icons-Linkedin"></i>
+</a>
+<a href="https://www.instagram.com/tripleseat/" rel="noopener" target="_blank">
+<i aria-hidden="true" class="tripleseat-social-icons-Instagram"></i>
+</a>
+<a href="https://www.facebook.com/Tripleseat/" rel="noopener" target="_blank">
+<i aria-hidden="true" class="tripleseat-social-icons-Facebook"></i>
+</a>
+<a href="https://tripleseat.com/products/" target="_self" title="Products">
+<span class="fl-heading-text">Products</span>
+</a>
+<a href="https://tripleseat.com/products/restaurants/">Tripleseat Restaurants<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/products/hotels/">Tripleseat Hotels<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/products/eventup/">Tripleseat EventUp<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/products/tsdirect/">TripleseatDirect<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/industries/" target="_self" title="Who We Serve">
+<span class="fl-heading-text">Who We Serve</span>
+</a>
+<a href="https://tripleseat.com/industries/fine-dining/">Fine Dining<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/industries/casual-dining/">Casual Dining<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/industries/bars/">Bar &amp; Nightclub<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/industries/catering/">Catering<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/industries/hotels/">Hotels<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/industries/fast-casual/">Fast Casual<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/industries/enterprise/">Enterprise<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/products/" target="_self" title="Resources">
+<span class="fl-heading-text">Resources</span>
+</a>
+<a href="https://tripleseat.com/marketplace/">Tripleseat Marketplace<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/roi-classic/">Calculate Your ROI<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/free-beo/">Free BEO<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/privacy-policy/">Privacy Policy<p class="menu-item-description"> </p></a>
+<a href="https://tripleseat.com/terms-of-service/">Terms of Service<p class="menu-item-description"> </p></a>
+<a class="Buttons-cta--medium_white fl-button" href="https://tripleseat.com/support/" role="button" target="_self">
+<span class="fl-button-text">Contact Support</span>
+</a>
+<a href="mailto:support@tripleseat.com">support@tripleseat.com</a>
+<a href="tel:978-716-2862">978-716-2862</a>
