@@ -1,6 +1,6 @@
 ## Parsing of https, of facts for busines, of images
 
-1. How to manual curate and scrape https,maps,images from website using Python
+1. How to manually curate and scrape https,maps,images from website using Python
    need more lingustic parsing knowledge.
 
 2. This is a tool for looking through a website to gather counts of https and images as a CSV output. 
