@@ -31,5 +31,5 @@ D) Finally look through this websites and determine if any of these locations th
 ## python, pandas, JSON, beautiful soup
 
 ## Author
-<strike>David H. Gae<strike>
+David Gae
 
