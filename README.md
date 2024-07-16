@@ -1,17 +1,16 @@
 ## Parsing of HTTPS, of facts for business, of images
 
-1. How to manually curate and scrape HTTPS, maps, and images from a website using Python
-   need more linguistic parsing knowledge to improve the context.
+1. How to manually curate HTTPS, maps, and images using Python
 
 2. This is a tool for looking through a website to gather words, HTTPS as a CSV output. 
 
 ## Results
-A) Tackle point 2 from  https://www.nbwa.org/resources/industry-fast-facts <br>
-Run this script to output the context into output.csv <br>
+A) Identify point 2 from  https://www.nbwa.org/resources/industry-fast-facts <br>
+Run web_scapy.py script to output the context into output.csv <br>
 
 B) The location and distribution of the highest shares in 2021 beer-importing businesses are listed below
 ![map](https://github.com/ddgae2/web_scrape/blob/main/beer_distrubtion.png) <br>
-B1) Other distribution businesses can be analyzed at https://www.nbwa.org/resources/industry-fast-facts
+Other distribution businesses can be analyzed at https://www.nbwa.org/resources/industry-fast-facts
 
 C) Use plotly.com to visualize the beer types from this beer distribution center <br>
 loaded as https://plotly.com. <br>
