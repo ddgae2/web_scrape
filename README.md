@@ -31,7 +31,7 @@ loaded as https://plotly.com. <be>
 		NCAA Basketball <be>
 
 ## Tools and sources
-## Python, pandas, JSON, beautiful soup
+Python, pandas, JSON, beautiful soup
 
 ## Author
 David Gae
