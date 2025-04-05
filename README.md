@@ -1,4 +1,4 @@
-# HTTPS, business facts, images Parser
+# HTTPS, business facts, images parser
 
 ## Step 1: Plot
 1. Manually curate HTTPS, maps, and images using Python
