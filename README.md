@@ -1,24 +1,30 @@
-# HTTPS, business facts, images parser
+## Project:
+HTTPS, business facts, images parser
 
-## Step 1: Plot
-1. Manually curate HTTPS, maps, and images using Python
+## Overview: 
+Manually curate HTTPS links, maps, and images using Python. This tool efficiently extracts keywords, such as HTTPS, from websites and generates output in CSV format. 
 
-2. This is a tool for searching a website to gather words, such as HTTPS as a CSV output. 
+## Tool used: 
+Python, pandas, JSON, beautiful soup
 
-## Step 2: Results
-1. Identify point 2 from  https://www.nbwa.org/resources/industry-fast-facts <br>
-Run the web_scapy.py script to output the context into output.csv <br>
+## Data:
+Google Maps data 
 
-2. The location and distribution of the highest shares in 2021 beer-importing businesses are listed below
+## Process:
+1. Exploratory Data Analysis (EDA)
+2. Insights & Visualizations
+
+## Results & Key Takeaways:
+1. Please find information from https://www.nbwa.org/resources/industry-fast-facts. Next, run the web_scapy.py script to save the content in output.csv. 
+
+2. Here are the top locations and distribution of beer-importing businesses in 2021.
 ![map](https://github.com/ddgae2/web_scrape/blob/main/beer_distrubtion.png) <br>
-Other distribution businesses can be analyzed at https://www.nbwa.org/resources/industry-fast-facts
 
-3. Use plotly.com to visualize the beer types from this beer distribution center <br>
-loaded as https://plotly.com. <be>
 
-## Step 3: Google analytics comparison. 
+3. Utilize plotly.com to visualize the beer types from this distribution center at https://plotly.com. This will provide valuable insights into the product range. <br>
 
-4. Finally, look through these websites and determine if any locations operate during these holidays. <br>
+## Discussion:
+Check the following websites to confirm which locations are open during these holidays. You'll uncover some great options <br>
 		Independence Day (4th of July) <br>
 		Memorial Day <br>
 		Labor Day  <br>
@@ -29,10 +35,4 @@ loaded as https://plotly.com. <be>
 		Halloween <br> 
 		St. Patrick’s Day <br>
 		NCAA Basketball <be>
-
-## Tools and sources
-Python, pandas, JSON, beautiful soup
-
-## Author
-David Gae
 
