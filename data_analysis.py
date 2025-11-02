@@ -20,7 +20,6 @@ def tags():
 	getvalues = []
 	for tag in soup.findAll(True):
 		#need to read more about liguistic parser
-		#collecting words on a page bit more challenging than expected
 		pattern = '1. Get noticed on social media'
 		text1 = soup.findAll('h2', text=pattern)
 		#print(text1)
